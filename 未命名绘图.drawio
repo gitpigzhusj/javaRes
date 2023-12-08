@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T05:48:56.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ztT5d9USCrlAedmMX3Pg" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T05:57:04.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="mSaeMGzL5GnY6UtOvMDA" version="22.1.7" type="github">
   <diagram name="第 1 页" id="-YDZAZbOoPaihumaPKAI">
     <mxGraphModel dx="3437" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,10 +94,42 @@
             <mxPoint x="-896" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W8f5LiiMpVAF6FN5ByhR-18" value="&lt;div&gt;找一篇文章学习&lt;/div&gt;&lt;div&gt;文章并没有我想要的内容&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-18" value="&lt;div&gt;找一篇文章学习&lt;/div&gt;&lt;div&gt;文章并没有我想要的内容&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;fontStyle=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W8f5LiiMpVAF6FN5ByhR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="W8f5LiiMpVAF6FN5ByhR-18" target="W8f5LiiMpVAF6FN5ByhR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="230" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-21" value="&lt;div&gt;结果：&lt;/div&gt;&lt;div&gt;学会使用github的仓库使用&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-22" value="&lt;div&gt;现象：&lt;/div&gt;&lt;div&gt;主体+动作&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="W8f5LiiMpVAF6FN5ByhR-24" target="W8f5LiiMpVAF6FN5ByhR-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-450" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-24" value="switchHosts添加了IP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="W8f5LiiMpVAF6FN5ByhR-22" target="W8f5LiiMpVAF6FN5ByhR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="150" as="sourcePoint" />
+            <mxPoint x="-406" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-27" value="github无法打开" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="W8f5LiiMpVAF6FN5ByhR-27" target="W8f5LiiMpVAF6FN5ByhR-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
