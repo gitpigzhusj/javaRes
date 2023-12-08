@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T05:57:04.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="mSaeMGzL5GnY6UtOvMDA" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T06:01:19.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="m6xlbXkpqgDyl9O9_Atr" version="22.1.7" type="github">
   <diagram name="第 1 页" id="-YDZAZbOoPaihumaPKAI">
     <mxGraphModel dx="3437" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="W8f5LiiMpVAF6FN5ByhR-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-540" y="230" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W8f5LiiMpVAF6FN5ByhR-21" value="&lt;div&gt;结果：&lt;/div&gt;&lt;div&gt;学会使用github的仓库使用&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-21" value="&lt;div&gt;结果：&lt;/div&gt;&lt;div&gt;github无法打开&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-500" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W8f5LiiMpVAF6FN5ByhR-22" value="&lt;div&gt;现象：&lt;/div&gt;&lt;div&gt;主体+动作&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -126,7 +126,7 @@
             <mxPoint x="-406" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W8f5LiiMpVAF6FN5ByhR-27" value="github无法打开" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="W8f5LiiMpVAF6FN5ByhR-27" value="IP错误？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=middle;fontStyle=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W8f5LiiMpVAF6FN5ByhR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="W8f5LiiMpVAF6FN5ByhR-27" target="W8f5LiiMpVAF6FN5ByhR-21">
